@@ -18,5 +18,4 @@ Imagine a function as a recipe: you define the ingredients (parameters) and step
 * How to create a function in Python?
 
   > ***I hope this helped***
-  >
-  > What are functions in Python?
+
